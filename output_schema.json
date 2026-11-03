@@ -1,0 +1,9 @@
+{
+   "actorSpecification": 1,
+   "fields": {
+      "fico_score": {
+         "type": "integer",
+         "description": "Predicción del Random Forest para el puntaje FICO medio."
+      }
+   }
+}
